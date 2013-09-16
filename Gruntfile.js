@@ -1,6 +1,6 @@
 /*
- * grunt-headache
- * https://github.com/paulcurley/grunt-headache
+ * grunt-heed
+ * https://github.com/paulcurley/grunt-heed
  *
  * Copyright (c) 2013 Paul Curley
  * Licensed under the MIT license.
@@ -11,7 +11,7 @@
 module.exports = function(grunt) {
 
   grunt.initConfig({
-      headache: {
+      heed: {
         dist: {
             options: {                
             },

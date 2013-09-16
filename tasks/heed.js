@@ -1,13 +1,13 @@
 /*
- * grunt-headache
- * https://github.com/paulcurley/grunt-headache
+ * grunt-heed
+ * https://github.com/paulcurley/grunt-heed
  *
  * Copyright (c) 2013 Paul Curley
  * Licensed under the MIT license.
  */
 'use strict';
 module.exports = function (grunt) {
-    grunt.registerMultiTask('headache', 'Headaaaaaaaaaaaaaaaache', function () {
+    grunt.registerMultiTask('heed', 'Put in the heed', function () {
         this.files.forEach(function (f) {
             var dir = require('path').dirname(f.src) ;    
             var content =  grunt.file.read(f.src);
