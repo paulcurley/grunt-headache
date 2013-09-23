@@ -1,23 +1,23 @@
 {
-  "name": "grunt-head-o-nizr",
+  "name": "grunt-heed",
   "description": "Inserts styles and script into the HEAD",
   "version": "0.1.0",
-  "homepage": "https://github.com/paulcurley/grunt-head-o-nizr",
+  "homepage": "https://github.com/paulcurley/grunt-heed",
   "author": {
     "name": "Paul Curley",
     "email": "hello@paulcurley.co.uk"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/paulcurley/grunt-head-o-nizr.git"
+    "url": "git://github.com/paulcurley/grunt-heed.git"
   },
   "bugs": {
-    "url": "https://github.com/paulcurley/grunt-head-o-nizr/issues"
+    "url": "https://github.com/paulcurley/grunt-heed/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/paulcurley/grunt-head-o-nizr/blob/master/LICENSE-MIT"
+      "url": "https://github.com/paulcurley/grunt-heed/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
